@@ -14,7 +14,7 @@
   ],
   "install": [
   {
-  "file": "GameData/protractor",
+  "file": "Protractor",
   "install_to": "GameData"
   }
   ],
