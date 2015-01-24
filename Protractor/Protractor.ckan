@@ -1,26 +1,27 @@
 {
-"spec_version": 1,
-"identifier": "Protractor",
-"ksp_version": "0.90",
-"license": "GPL3",
-"release_status": "stable",
-"x_netkan_license_ok": true,
-"depends": [
-{
-"name": "ModuleManager",
-"min_version": "2.3.1",
-}
-],
-"install": [
-{
-"file": "GameData/protractor",
-"install_to": "GameData"
-}
-],
-"name": "Protractor Continued",
-"author": "RealGrep",
-"x_maintained_by": "RealGrep",
-"version": "v2.4.15",
-"download": "https://github.com/RemoteTechnologiesGroup/RemoteTech/releases/download/build-master-253/RemoteTech-1.6.2.zip",
-"x_generated_by": "netkan"
+  "spec_version": 1,
+  "identifier": "Protractor",
+  "ksp_version": "0.90",
+  "license": "GPL3",
+  "release_status": "stable",
+  "x_netkan_license_ok": true,
+  "abstract":"",
+  "depends": [
+  {
+  "name": "ModuleManager",
+  "min_version": "2.3.1",
+  }
+  ],
+  "install": [
+  {
+  "file": "GameData/protractor",
+  "install_to": "GameData"
+  }
+  ],
+  "name": "Protractor Continued",
+  "author": "RealGrep",
+  "x_maintained_by": "RealGrep",
+  "version": "v2.4.15",
+  "download": "https://github.com/RemoteTechnologiesGroup/RemoteTech/releases/download/build-master-253/RemoteTech-1.6.2.zip",
+  "x_generated_by": "netkan"
 }
